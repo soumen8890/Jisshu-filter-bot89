@@ -3,7 +3,7 @@ class script(object):
     START_TXT = """ʜᴇʏ {}, {}
     
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/soumen98890">Soumen Bots &lt;/&gt;</a></blockquote>"""
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/soumen98890">Soumen Bots &lt;/&gt;</a></blockquote> <blockquote>DM FOR PAID PROMOTION @@SOUMEN98890</blockquote>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
@@ -32,8 +32,8 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/soumen98890'>Soumen Bots &lt;/&gt;</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : Jisshu filter bot
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/JISSHU_BOTS'>Jisshu Bots &lt;/&gt;</a>
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : Soumen filter bot
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/soumen98890'>Soumen Bots &lt;/&gt;</a>
 ‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
@@ -70,7 +70,7 @@ sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v-3.1.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-If there is an error, ask in the support group @Jisshu_support</b>"""
+If there is an error, ask in the support group @soumen98890</b>"""
         
     
     STATUS_TXT = """<b><u>♻️ ʙᴏᴛ ᴅᴀᴛᴀʙᴀsᴇ </u>
@@ -161,11 +161,11 @@ User - {}"""
 
 <code>/set_verify_3 linkmonetizer.in fcee6bbc628cfc61229a2d808e1b0ee3315a0f5e</code>
 
-<code>/set_tutorial https://t.me/Jisshu_developer</code>
+<code>/set_tutorial https://t.me/Soumen_developer</code>
 
-<code>/set_tutorial_2 https://t.me/Jisshu_developer</code>
+<code>/set_tutorial_2 https://t.me/Soumen_developer</code>
 
-<code>/set_tutorial_3 https://t.me/Jisshu_developer</code>
+<code>/set_tutorial_3 https://t.me/Soumen_developer</code>
 
 <code>/set_time_2 300</code>
 
@@ -279,7 +279,7 @@ User - {}"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://telegram.dog/JisshuDeveloperBot'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/soumen98890'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -297,11 +297,11 @@ User - {}"""
  ❏ 𝟷𝟿𝟿₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
  ❏ 𝟹𝟼𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-🆔 ᴜᴘɪ ɪᴅ ➩ <code>jishan@fam</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+🆔 ᴜᴘɪ ɪᴅ ➩ <code>souemn007@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://telegram.dog/JisshuDeveloperBot'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/premium78975'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
@@ -343,10 +343,10 @@ User - {}"""
 --------------Broadcast--------------
 ➩ /broadcast - /grp_broadcast
 --------------Set Ads----------------
-➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/Jisshu_developer/11">Explain</a>
+➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/soumen98890">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/Jisshu_developer/10">Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/soumen98890">Explain</a>
 ➩ /clearlist - Clear all lists
 </blockquote></b>"""
     
@@ -364,7 +364,7 @@ User - {}"""
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://t.me/soumen98890">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial - set verification tutorial 
 -------------Set Log Channel-----------
@@ -417,7 +417,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 /movie_update_on - Movie Update on</blockquote></b>"""
 
     SOURCE_TXT = """<b>
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/JISSHU_BOTS/589">&lt;Click Here&gt;</a></blockquote>
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/soumen98890">&lt;Click Here&gt;</a></blockquote>
 
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @jisshu_bots
 </b>""" 
@@ -448,4 +448,4 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://telegram.dog/JisshuDeveloperBot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://telegram.dog/im_jisshu">Z I Ƨ Ή Λ П ♡</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/soumen98890">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/soumen98890">S O U M E N</a></b>"""
