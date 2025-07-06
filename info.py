@@ -31,8 +31,8 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 AUTH_CHANNEL = int(environ.get('AUTH_CHANNEL', '-1002389404459'))
 AUTH_REQ_CHANNEL = int(environ.get('AUTH_REQ_CHANNEL', '-1002389404459'))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001954153980'))
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '')) 
-LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', ''))
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-100195415398')) 
+LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-100195415398'))
 
 # MongoDB 
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jigam96466:Ozx7j56mQjeEdVT5@cluster0.yiwja6g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
