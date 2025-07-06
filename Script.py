@@ -118,7 +118,13 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}</b>"""
+    FILE_CAPTION = """📂 File ➛ <code>{file_name}</code>
+<blockquote>⏤‌‌ 𝗝⌡𝗼𝗶𝗻 ➥  「@Spportgroup89」
+⏤‌‌ 𝗝⌡𝗼𝗶𝗻 ➥  「 @movieguru9980 」</blockquote>
+▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+<blockquote>𝙉ote :- 𝙋𝙡𝙚𝙖𝙨𝙚 𝙪𝙨𝙚 𝙈𝙓 𝙋𝙡𝙖𝙮𝙚𝙧 𝙤𝙧 𝙑𝙇𝘾 𝙋𝙡𝙖𝙮𝙚𝙧 𝙩𝙤 𝙋𝙡𝙖𝙮 𝙏𝙝𝙞𝙨 𝙑𝙞𝙙𝙚𝙤.𝘽𝙪𝙩 𝙄𝙛 𝙔𝙤𝙪'𝙧𝙚 𝙁𝙖𝙘𝙞𝙣𝙜 𝘼𝙣𝙮 𝘼𝙪𝙙𝙞𝙤 𝙍𝙚𝙡𝙖𝙩𝙚𝙙 𝙄𝙨𝙨𝙪𝙚𝙨 𝙞𝙣 𝙈𝙓 𝙋𝙡𝙖𝙮𝙚𝙧,𝙏𝙝𝙚𝙣 𝘿𝙤 𝙆𝙞𝙣𝙙𝙡𝙮 𝙪𝙨𝙚 𝙑𝙇𝘾 𝙋𝙡𝙖𝙮𝙚𝙧.</blockquote>
+
+<blockquote>🧩DONATE➛ <code>souemn007@oksbi</code></blockquote>"""
     
 
     ALRT_TXT = """ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ sᴇᴀʀᴄʜɪɴɢ !?"""
