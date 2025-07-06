@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT = """ʜᴇʏ {}, ```{}```
+    START_TXT = """ʜᴇʏ {}, <blockquote>{}</blockquote>
     
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/soumen98890">Soumen Bots &lt;/&gt;</a></blockquote> <blockquote>DM FOR PAID PROMOTION @SOUMEN98890</blockquote>"""
