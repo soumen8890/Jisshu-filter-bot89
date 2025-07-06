@@ -21,7 +21,7 @@ PORT = environ.get('PORT', '8082')
 
 # Owners 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6233910543').split()]
-OWNER_USERNAME = environ.get('OWNER_USERNAME', 'SOUMEN') # without @ or https://t.me/ 
+OWNER_USERNAME = environ.get('OWNER_USERNAME', 'soumen98890') # without @ or https://t.me/ 
 USERNAME = environ.get('USERNAME', "SOUMEN SANTRA") # ADMIN USERNAME
 
 # Database Channel 
